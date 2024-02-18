@@ -14,7 +14,7 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <nav className="bg-gray-800 p-4 flex justify-center"> {/* Updated styling here */}
+        <nav className="bg-gray-800 p-4 flex justify-center"> 
           <ul className="flex space-x-4 text-white">
             <li>
               <Link to="/landing" className="bg-indigo-500 px-4 py-2 rounded hover:bg-indigo-600">Landing</Link>
