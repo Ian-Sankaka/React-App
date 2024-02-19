@@ -22,7 +22,7 @@ Welcome to the React Gallery App! This application allows users to explore a col
 4. Run the app locally with `npm start`.
 
 ## Usage
-- Visit https://ian-sankaka.github.io/React-App/ to see the app in action.
+- Visit https:iridescent-melomakarona-afb940.netlify.app to see the app in action.
 - Register or log in to explore the full features.
 - Navigate through users, albums, and photos using the provided links.
 
